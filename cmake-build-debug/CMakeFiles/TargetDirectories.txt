@@ -1,0 +1,3 @@
+C:/Users/Gabriel/Documents/Prog/NewLoja/cmake-build-debug/CMakeFiles/NewLoja.dir
+C:/Users/Gabriel/Documents/Prog/NewLoja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriel/Documents/Prog/NewLoja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
